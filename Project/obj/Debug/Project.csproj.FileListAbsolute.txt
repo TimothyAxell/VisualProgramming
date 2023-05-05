@@ -1,0 +1,13 @@
+C:\Users\WIN10\Desktop\Project\bin\Debug\Project.exe.config
+C:\Users\WIN10\Desktop\Project\bin\Debug\Project.exe
+C:\Users\WIN10\Desktop\Project\bin\Debug\Project.pdb
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.Form1.resources
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.exe
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.pdb
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.Form2.resources
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.Form3.resources
+C:\Users\WIN10\Desktop\Project\obj\Debug\Project.FormReplay.resources

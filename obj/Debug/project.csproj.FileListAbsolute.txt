@@ -1,0 +1,387 @@
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\OneDrive\Dokumen\Tugas Kuliah\sem 2\PV\proyek\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_v3_tim_mobil (2)\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\2\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_v5_Ester\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe.config
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\bin\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.play.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\Proyek_v5_Ester_baroe\Proyek_v5_Gabungan\Proyek_v4_ester_mobil (2)\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V6_Chiari_Mute\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\3\Proyek_V6_Chiari_Mute\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V8_Ester_progressbar\Proyek_V7_Tim_Intersect\Proyek_V6_Chiari_Mute\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\5\Proyek_V8_Ester_PB\project\obj\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\bin\Debug\project.exe.config
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\bin\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\bin\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.play.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\Proyek_V9_Tim_Difficulty\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.highscore.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.highscore.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V10_Chiari_Highscore\Proyek_V9_Tim_Difficulty\project\obj\Debug\project.pdb
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\bin\Debug\project.exe.config
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\bin\Debug\project.exe
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\bin\Debug\project.pdb
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.createnewuser.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.Welcome.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.highscore.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.play.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.playthegame.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.Resource1.resources
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.exe
+C:\Users\HP\Documents\Kuliah\Sem2\PV\Proyek\Proyek_V12_Tim_patch\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.highscore.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_patch\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.highscore.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V12_Tim_Tiemr&Score\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.highscore.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\7\Proyek_V13_Tim_Timer&Score\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.highscore.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.replay.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.confirmReplay.resources
+C:\Users\Ester Gabriel\Downloads\Proyek_V14_Tim_labelspeed\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Form2.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\bin\Debug\project.exe.config
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\bin\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\bin\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.confirmReplay.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Form2.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.highscore.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.play.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.replay.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\Proyek_V20_Ester_aminfinish\Proyek_V14_Tim_labelspeed\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.confirmReplay.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.Form2.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.highscore.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.replay.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\11\project\obj\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\bin\Debug\project.exe.config
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\bin\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\bin\Debug\project.pdb
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.confirmReplay.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.Form2.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.highscore.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.play.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.replay.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.exe
+D:\Kuliah\Semester 2\Proyek\proyek_v22_TIm_patch\11\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.confirmReplay.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.Form2.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.highscore.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.replay.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v23_chi_patch\project\obj\Debug\project.tutor.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\bin\Debug\project.exe.config
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\bin\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\bin\Debug\project.pdb
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.confirmReplay.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.createnewuser.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.Welcome.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.Form2.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.highscore.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.play.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.playthegame.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.Properties.Resources.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.replay.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.Resource1.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.tutor.resources
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.exe
+D:\Kuliah\SEM 2\Pemrogaman Visual\Proyek\12\proyek_v24_tim_tutor\project\obj\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\bin\Debug\project.exe.config
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\bin\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\bin\Debug\project.pdb
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.confirmReplay.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.createnewuser.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.Welcome.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.Form2.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.highscore.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.play.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.playthegame.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.replay.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.Resource1.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.tutor.resources
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.exe
+C:\Users\Ester Gabriel\Downloads\proyek_v24_tim_tutor\proyek_v24_tim_tutor\project\obj\Debug\project.pdb
